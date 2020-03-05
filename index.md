@@ -10,7 +10,7 @@ In this, it highlights events of interest to the
 Posting events is not restricted to UNIQUE community members, however!
 All relevant posts are welcome.
 
-You can view the calendar [here](http://tinyurl.com/OpenResearchCal) or
+You can view the calendar [here](https://tinyurl.com/CalendarUnique) or
 follow us on Twitter at [@CalendarUnique](https://twitter.com/CalendarUnique).
 
 ## Moderating events
