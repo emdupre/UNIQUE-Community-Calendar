@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: UNIQUE Community Calendar
 description: >
             A community tool to gather all Quebec-based events
             at the intersection of neuroscience and AI.
+logo: ./Documents/images/unique-comm-cal-wide.png
