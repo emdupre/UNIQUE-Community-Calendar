@@ -29,4 +29,4 @@ Ultimately, we take no responsibility for the content or administration of any e
 
 ## Acknowledgements
 
-This calendar was directly inspired by the [Open Research Calendar](https://twitter/com/OpenResearchCal).
+This calendar was directly inspired by the [Open Research Calendar](https://twitter.com/OpenResearchCal).
