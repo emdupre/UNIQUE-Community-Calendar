@@ -22,7 +22,7 @@ However, because events are posted automatically, there is a clear possibility o
 
 If you notice any posting which is offensive, inappropriate, duplicated, or otherwise
 contains incorrect or upsetting information, please report this directly.
-We have created a [report link](http://tinyurl.com/rcu66l8) to expedite this process.
+We have created a [report link](http://tinyurl.com/ReportUniqueEvent) to expedite this process.
 
 On receiving a report, calendar maintainers will review the flagged event details.
 As this calendar is run as a volunteer, community-based service, response time may be delayed.
