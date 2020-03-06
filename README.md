@@ -1,6 +1,6 @@
-# The UNIQUE Community Calendar
+# UNIQUE Community Calendar
 
-The UNIQUE Community Calendar is a crowd-sourced resource for events
+The UNIQUE Community Calendar is a coommunity-powered resource for events
 occurring in and around Québec that feature
 machine learning, artificial antelligence, and neuroscience&mdash;
 and especially work at their intersection.
@@ -10,7 +10,9 @@ In this, it highlights events of interest to the
 Posting events is not restricted to UNIQUE community members, however!
 All relevant posts are welcome.
 
-You can view the calendar [here](https://tinyurl.com/CalendarUnique) or
+You can [add a new event to the calendar](https://tinyurl.com/AddUniqueEvent) by filling out a quick Google form.
+
+To see existing events, you can view the calendar [here](https://tinyurl.com/CalendarUnique) or
 follow us on Twitter at [@CalendarUnique](https://twitter.com/CalendarUnique).
 
 ## Moderating events
