@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #019cfdff;
+}
+
+a:hover, a:focus {
+  font-weight: none;
+  text-decoration: underline;
+}
+
