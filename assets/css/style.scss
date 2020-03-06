@@ -8,11 +8,7 @@ a {
 }
 
 a:hover, a:focus {
-  font-weight: normal;
+  font-weight: inherit;
   text-decoration: underline;
-}
-
-h1 {
-  font-weight: bold;
 }
 
