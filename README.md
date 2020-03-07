@@ -2,7 +2,7 @@
 
 The UNIQUE Community Calendar is a coommunity-powered resource for events
 occurring in and around Québec that feature
-machine learning, artificial antelligence, and neuroscience&mdash;
+machine learning, artificial intelligence, and neuroscience&mdash;
 and especially work at their intersection.
 
 In this, it highlights events of interest to the
